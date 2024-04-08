@@ -11,4 +11,5 @@ async function countWordsInFile(filePath) {
   }
 }
 
+
 countWordsInFile("data.txt"); 
